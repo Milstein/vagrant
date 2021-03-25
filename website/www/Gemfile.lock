@@ -21,7 +21,8 @@ GEM
       multi_json (~> 1.0)
     ffi (1.9.0)
     fssm (0.2.10)
-    haml (4.0.3)
+    haml (5.2.1)
+      temple (>= 0.8.0)
       tilt
     highline (1.6.19)
     hike (1.2.3)
@@ -94,6 +95,7 @@ GEM
     sprockets-sass (1.0.1)
       sprockets (~> 2.0)
       tilt (~> 1.1)
+    temple (0.8.2)
     therubyracer (0.12.0)
       libv8 (~> 3.16.14.0)
       ref
