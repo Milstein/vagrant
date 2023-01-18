@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (3.2.14)
+    activesupport (3.2.22.5)
       i18n (~> 0.6, >= 0.6.4)
       multi_json (~> 1.0)
     builder (3.2.2)
@@ -25,7 +25,7 @@ GEM
       tilt
     highline (1.6.19)
     hike (1.2.3)
-    i18n (0.6.5)
+    i18n (0.6.11)
     kramdown (1.1.0)
     less (2.2.2)
       commonjs (~> 0.2.6)
@@ -68,7 +68,7 @@ GEM
       sprockets-helpers (~> 1.0.0)
       sprockets-sass (~> 1.0.0)
     mini_portile (0.5.1)
-    multi_json (1.8.0)
+    multi_json (1.15.0)
     nokogiri (1.6.0)
       mini_portile (~> 0.5.0)
     rack (1.5.2)
